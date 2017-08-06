@@ -155,6 +155,9 @@ if __name__=='__main__':
     starttime = datetime.datetime.now()
     show_logo()
     key = raw_input('\033[1;33;40mplease input keyword:')
+    key = key.encode('utf-8')
+    key = urllib2.quote(key)
+
     page = int(raw_input("Search Number of pages:"))
 
     for i in range(page):
