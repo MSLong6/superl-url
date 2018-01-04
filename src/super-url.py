@@ -2,7 +2,7 @@
 # Project = https://github.com/super-l/search-url.git
 # Author  = superl
 # Blog    = www.superl.org   QQ:86717375
-# Team    = Code Security Team(C.S.T) | 铭剑创鼎
+# Team    = 忘忧草安全团队(Nepenthes Security Team) | 铭剑创鼎
 import datetime
 import time
 import urllib2
@@ -38,7 +38,7 @@ def show_logo():
                                 00000                                           
                                 00000                 blog:www.superl.org       
                                 00000                                           
-             {Author:superl   Version 1.0.0   Email:86717375@qq.com}            
+             {Author:superl   Version 2.0.0   Email:superl@nepenthes.cn}            
 """  
     print logostr
 
