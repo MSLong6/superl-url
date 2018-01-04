@@ -22,7 +22,7 @@
 
 ##### 作者博客:http://www.superl.org/post-searchurl.html
 
-##### QQ:82715132    QQ群：199688491
+##### QQ:86717375    QQ群：199688491
 
 
 # 使用说明
